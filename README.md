@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img decoding="async" src="https://github.com/aeopaz/images/blob/main/BannerAlvaro.png" width="800"/>
+</div>
 ## Hi there 👋
 
 <!--
