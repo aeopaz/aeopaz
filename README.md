@@ -12,9 +12,11 @@ Ingeniero de Sistemas especializado en el Desarrollo web full stack:
 * 🎼 Toco piano y guitarra
 
 ## 🌐 Redes sociales:
+* <img decoding="async" src="https://github.com/aeopaz/images/blob/main/BannerAlvaro.png" width="800"/>
+
+## 🔨 Tech Stack
 [![image](https://github.com/user-attachments/assets/9be5fd45-ef91-4ddb-8e47-cf9185c0fa56)
 ](https://www.linkedin.com/in/alvaro-eduardo-ocampo-paz-416562141/). 
-
 <!--
 **aeopaz/aeopaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
