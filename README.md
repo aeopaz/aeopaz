@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola, Bienvenido a mi repositorio! 👁️</h1>
+<h1 align="center">¡Hola, Bienvenido 👋!</h1>
 <div id="header" align="center">
   <img decoding="async" src="https://github.com/aeopaz/images/blob/main/BannerAlvaro.png" width="800"/>
 </div>
@@ -11,15 +11,23 @@ Ingeniero de Sistemas especializado en el Desarrollo web full stack:
 * 📖 Me gusta aprender nuevas tecnologías
 * 🎼 Toco piano y guitarra
 
-## 🌐 Redes sociales:
+## 🌐 Contáctame:
 * [![image](https://github.com/user-attachments/assets/9be5fd45-ef91-4ddb-8e47-cf9185c0fa56)
-](https://www.linkedin.com/in/alvaro-eduardo-ocampo-paz-416562141/). 
+](https://www.linkedin.com/in/alvaro-eduardo-ocampo-paz-416562141/).
+* <img decoding="async" src="https://img.shields.io/badge/aeopaz@gmail.com-3EAF7C&logo=gmail"/>
 
 ## 🔨 Tech Stack
 *  <img decoding="async" src="https://img.shields.io/badge/Laravel-F33A2F"/> <img decoding="async" src="https://img.shields.io/badge/Vue.js-3EAF7C"/>  <img decoding="async" src="https://img.shields.io/badge/JavaScript-EFD81D"/> <img decoding="async" src="https://img.shields.io/badge/Bootstrap-8712F6"/> <img decoding="async" src="https://img.shields.io/badge/CSS-254BDD"/> <img decoding="async" src="https://img.shields.io/badge/SASS-C06190"/> <img decoding="async" src="https://img.shields.io/badge/Flutter-51BFF0"/> <img decoding="async" src="https://img.shields.io/badge/MySQL-005E87"/> <img decoding="async" src="https://img.shields.io/badge/WordPress-30353A"/> <img decoding="async" src="https://img.shields.io/badge/Python-3E7AAA"/>
 
 
+
+
 <!--
+## 📊 Github Stats
+https://github.com/GPopZach/github-readme-stats/blob/master/docs/readme_es.md
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aeopaz)](https://github.com/aeopaz/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aeopaz&layout=compact)](https://github.com/aeopaz/github-readme-stats)
 **aeopaz/aeopaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
