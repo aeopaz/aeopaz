@@ -13,7 +13,8 @@ versionamiento de software con Git y la administración de entornos mediante
 Docker. Además, cuenta con la capacidad de desplegar aplicaciones en
 servidores web, utilizando plataformas como cPanel.
 
-
+##🌐 Redes sociales:
+[](https://www.linkedin.com/in/alvaro-eduardo-ocampo-paz-416562141/). 
 
 <!--
 **aeopaz/aeopaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
