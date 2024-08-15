@@ -1,17 +1,15 @@
-<h1 align="center">¡Hola, soy Alvaro Ocampoi! 👁️</h1>
+<h1 align="center">¡Hola, Bienvenido a mi repositorio! 👁️</h1>
 <div id="header" align="center">
   <img decoding="async" src="https://github.com/aeopaz/images/blob/main/BannerAlvaro.png" width="800"/>
 </div>
 
-## Sobre mi
+## 💪 Sobre mi
 
-Ingeniero de Sistemas especializado en el Desarrollo web full stack, con Python,
-Laravel, JavaScript, Vue.js, Bootstrap, CSS y SASS, WordPress, MySQL para
-crear aplicaciones web dinámicas y atractivas. También posee habilidades en el
-desarrollo de aplicaciones móviles con Flutter. Su experiencia incluye el
-versionamiento de software con Git y la administración de entornos mediante
-Docker. Además, cuenta con la capacidad de desplegar aplicaciones en
-servidores web, utilizando plataformas como cPanel.
+Ingeniero de Sistemas especializado en el Desarrollo web full stack:
+
+* 👷 Trabajo como desarrollador web
+* 📖 Me gusta aprender nuevas tecnologías
+* 🎼 Toco piano y guitarra
 
 ## 🌐 Redes sociales:
 [](https://www.linkedin.com/in/alvaro-eduardo-ocampo-paz-416562141/). 
