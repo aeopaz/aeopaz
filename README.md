@@ -16,7 +16,7 @@ Ingeniero de Sistemas especializado en el Desarrollo web full stack:
 ](https://www.linkedin.com/in/alvaro-eduardo-ocampo-paz-416562141/). 
 
 ## 🔨 Tech Stack
-* <img decoding="async" src="https://github.com/aeopaz/images/blob/main/BannerAlvaro.png" width="800"/>
+* [<img decoding="async" src="[https://github.com/aeopaz/images/blob/main/BannerAlvaro.png](https://img.shields.io/badge/laravel-F33A2F)" width="800"/>](https://img.shields.io/badge/laravel-F33A2F)
 <!--
 **aeopaz/aeopaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
