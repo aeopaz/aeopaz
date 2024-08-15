@@ -1,4 +1,4 @@
-<center><h1>Hola, soy Alvaro Ocampo</h1><center>
+<center><h1>Hola, soy Alvaro Ocampo</h1></center>
 <div id="header" align="center">
   <img decoding="async" src="https://github.com/aeopaz/images/blob/main/BannerAlvaro.png" width="800"/>
 </div>
