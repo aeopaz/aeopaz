@@ -20,7 +20,6 @@ Ingeniero de Sistemas especializado en el Desarrollo web full stack:
 *  <img decoding="async" src="https://img.shields.io/badge/Laravel-F33A2F"/> <img decoding="async" src="https://img.shields.io/badge/Vue.js-3EAF7C"/>  <img decoding="async" src="https://img.shields.io/badge/JavaScript-EFD81D"/> <img decoding="async" src="https://img.shields.io/badge/Bootstrap-8712F6"/> <img decoding="async" src="https://img.shields.io/badge/CSS-254BDD"/> <img decoding="async" src="https://img.shields.io/badge/SASS-C06190"/> <img decoding="async" src="https://img.shields.io/badge/Flutter-51BFF0"/> <img decoding="async" src="https://img.shields.io/badge/MySQL-005E87"/> <img decoding="async" src="https://img.shields.io/badge/WordPress-30353A"/> <img decoding="async" src="https://img.shields.io/badge/Python-3E7AAA"/>
 
 ## 📊 Github Stats
-https://github.com/GPopZach/github-readme-stats/blob/master/docs/readme_es.md
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aeopaz)](https://github.com/aeopaz/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aeopaz&layout=compact)](https://github.com/aeopaz/github-readme-stats)
@@ -29,7 +28,7 @@ https://github.com/GPopZach/github-readme-stats/blob/master/docs/readme_es.md
 
 <!--
 
-
+https://github.com/GPopZach/github-readme-stats/blob/master/docs/readme_es.md
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
