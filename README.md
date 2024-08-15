@@ -16,7 +16,7 @@ Ingeniero de Sistemas especializado en el Desarrollo web full stack:
 ](https://www.linkedin.com/in/alvaro-eduardo-ocampo-paz-416562141/). 
 
 ## 🔨 Tech Stack
-*  <img decoding="async" src="https://img.shields.io/badge/laravel-F33A2F"/> <img decoding="async" src="https://img.shields.io/badge/vue-3EAF7C"/>
+*  <img decoding="async" src="https://img.shields.io/badge/laravel-F33A2F"/> <img decoding="async" src="https://img.shields.io/badge/vue.js-3EAF7C"/>  <img decoding="async" src="https://img.shields.io/badge/JavaScript-EFD81D"/> <img decoding="async" src="https://img.shields.io/badge/Bootstrap-EFD81D"/> <img decoding="async" src="https://img.shields.io/badge/css-EFD81D"/> <img decoding="async" src="https://img.shields.io/badge/sass-EFD81D"/> <img decoding="async" src="https://img.shields.io/badge/flutter-EFD81D"/> <img decoding="async" src="https://img.shields.io/badge/MySQL-EFD81D"/> <img decoding="async" src="https://img.shields.io/badge/WordPress-EFD81D"/>
 
 
 <!--
